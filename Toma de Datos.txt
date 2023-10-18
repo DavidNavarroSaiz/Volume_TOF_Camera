@@ -1,0 +1,10 @@
+diametro: 10,3 cm
+altura 8,9 cm
+
+
+Prueba_1
+	vacio
+	2 cm de altura de agua
+	4 cm de altura de agua
+	6 cm de altura de agua
+	8 cm de altura de agua
